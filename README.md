@@ -1,7 +1,5 @@
 # 🛡️ My Cybersecurity Projects
 
-Index of all my beginner cybersecurity tools and projects.
-
 Welcome to my collection of cybersecurity projects, tools, and scripts. Each project is designed for learning, practicing, and exploring cybersecurity fundamentals.
 
 ---
