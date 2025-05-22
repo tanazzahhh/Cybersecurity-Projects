@@ -8,19 +8,19 @@ Welcome to my collection of cybersecurity projects, tools, and scripts. Each pro
 
 ### -> Hash Identifier
 A Python CLI tool to identify hash types using regex, confidence scores, and validation.
-➡️ [View Repository](https://github.com/yourusername/Hash-Identifier)
+➡️ [View Repository](https://github.com/tanazzahh/Hash-Identifier)
 
 ### -> Password Cracker
 Hashes user-inputted passwords and attempts to crack them using a wordlist-based dictionary attack.
-➡️ [View Repository](https://github.com/yourusername/Password-Cracker)
+➡️ [View Repository](https://github.com/tanazzahh/Password-Cracker)
 
 ### -> Keylogger
 A simple keylogger that logs keystrokes, active window titles, and timestamps (for educational use only).
-➡️ [View Repository](https://github.com/yourusername/Keylogger)
+➡️ [View Repository](https://github.com/tanazzahh/Keylogger)
 
 ### -> Brute Force Login Simulator
 Simulates a brute-force attack on a login page using Selenium and a wordlist.
-➡️ [View Repository](https://github.com/yourusername/Brute-Force-Simulator)
+➡️ [View Repository](https://github.com/tanazzahh/Brute-Force-Simulator)
 
 --
 
