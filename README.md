@@ -22,7 +22,7 @@ A simple keylogger that logs keystrokes, active window titles, and timestamps (f
 Simulates a brute-force attack on a login page using Selenium and a wordlist.
 ➡️ [View Repository](https://github.com/tanazzahhh/Brute-Force-Attack-Simulation)
 
-### >> Brute Force Login Simulator
+### >> Steganography Tool
 A Python-based CLI tool to hide and reveal messages inside image files using basic steganography. 
 ➡️ [View Repository](https://github.com/tanazzahhh/Steganography-Tool)
 
