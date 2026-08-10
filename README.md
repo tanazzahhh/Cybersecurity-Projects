@@ -1,10 +1,10 @@
-# 🛡️ My Cybersecurity Projects
+# My Cybersecurity Projects
 
-Welcome to my collection of cybersecurity projects, tools, and scripts. Each project is designed for learning, practicing, and exploring cybersecurity fundamentals.
+This is my collection of cybersecurity projects, tools, and scripts. Each of my project is something I had made for learning, practicing, and exploring cybersecurity fundamentals.
 
 ---
 
-## 🔗 Project Index
+## Project Index
 
 ### >> Hash Identifier
 A Python CLI tool to identify hash types using regex, confidence scores, and validation.
@@ -28,4 +28,4 @@ A Python-based CLI tool to hide and reveal messages inside image files using bas
 
 --
 
-> 🚨 Disclaimer: All tools are for educational and ethical use only.
+>    All tools are for educational and ethical use only.
